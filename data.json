@@ -1,0 +1,412 @@
+{
+    "dataArr": [
+        {
+            "product": "Dabur Amla Hair Oil",
+            "link": "https://amzn.to/3bOiDQg"
+        },
+        {
+            "product": "Dabur Red Paste Pantry",
+            "link": "https://amzn.to/2WNs9yZ"
+        },
+        {
+            "product": "Dabur Red Paste",
+            "link": "https://amzn.to/2zS0P9I"
+        },
+        {
+            "product": "Dabur Lal Tail 500ml",
+            "link": "https://amzn.to/2ygd3bJ"
+        },
+        {
+            "product": "Dabur Honey Squeezy",
+            "link": "https://amzn.to/3bJox5f"
+        },
+        {
+            "product": "Tata Salt, 1kg",
+            "link": "https://amzn.to/3bPP8gY"
+        },
+        {
+            "product": "Dabur Almond Shampoo, 350ml with Free Amla Hair Oil, 275ml",
+            "link": "https://amzn.to/2LH0rgZ"
+        },
+        {
+            "product": "Dabur Vatika Health Shampoo",
+            "link": "https://amzn.to/2WJqOJA"
+        },
+        {
+            "product": "DABUR Sanitize Hand Sanitizer |60% Alcohol Based Sanitizer (Regular) - 500 ml",
+            "link": "https://amzn.to/2yhAJg1"
+        },
+        {
+            "product": "Dabur Almond Hair Oil, 500ml",
+            "link": "https://amzn.to/3e556FQ"
+        },
+        {
+            "product": "Dabur Ayurvedic Shilajit Gold Capsules - 20 Pieces (With Kesar)",
+            "link": "https://amzn.to/2XdW828"
+        },
+        {
+            "product": "Dabur Hajmola Imli - Tasty Digestive Tablets - 160 Sachet Jar with Dabur Amla Hair Oil - 25 ml",
+            "link": "https://www.amazon.in/Dabur-Hajmola-Digestive-Tablets-Count/dp/B017SKESMK/ref=sr_1_12?dchild=1&keywords=dabur&qid=1589928109&refinements=p_85%3A10440599031&rnid=10440598031&rps=1&sr=8-12"
+        },
+        {
+            "product": "Dabur Meswak: India’s No-1 Fluoride Free Toothpaste | Herbal paste made from pure extract of rare Miswak herb - 200 +200 gms",
+            "link": "https://amzn.to/3bMfMHB"
+        },
+        {
+            "product": "Dabur Badam Tail - 100% Pure Almond Oil - 50 ml",
+            "link": "https://amzn.to/3e7UndL"
+        },
+        {
+            "product": "Dabur Ashwagandhadi Lehya 400gm\n",
+            "link": "https://amzn.to/2WMDq2I"
+        },
+        {
+            "product": "Dabur Honitus Hot Sip Ayurvedic Kadha (Pack of 30 Sachets)",
+            "link": "https://amzn.to/2Tmhbyk"
+        },
+        {
+            "product": "Dabur Honey 400g Squeezy Pack (Buy 1 Get 1 Free) and Dabur Chyawanprash 500gm (Get 75g Free) Combo Pack",
+            "link": "https://amzn.to/3bOk2q0"
+        },
+        {
+            "product": "Dabur Shankhpushpi Syrup 450 ml (with 225 ml Free)",
+            "link": "https://www.amazon.in/Dabur-Shankhpushpi-Syrup-450-Free/dp/B00HVSUJPU/ref=sr_1_55?dchild=1&keywords=dabur&qid=1589928770&refinements=p_85%3A10440599031&rnid=10440598031&rps=1&sr=8-55"
+        },
+        {
+            "product": "Dabur Ratnaprash - Chyawanprash for all Seasons, A Complete Family Health Tonic - 450g",
+            "link": "https://amzn.to/2TgKZMP"
+        },
+        {
+            "product": "Vatika Anti-Dandruff Shampoo, Power of 7 Natural Ingredients, 440ml",
+            "link": "https://amzn.to/2LHj6t1"
+        },
+        {
+            "product": "Dabur Stresscom Ashwagandha 120 Caps (10 caps X 12 strips)",
+            "link": "https://www.amazon.in/Dabur-Stresscom-Ashwagandha-Caps-strips/dp/B00J70X9RU/ref=sr_1_88?dchild=1&keywords=dabur&qid=1589928770&refinements=p_85%3A10440599031&rnid=10440598031&rps=1&sr=8-88"
+        },
+        {
+            "product": "DABUR Swarna Guggulu 30 Tabs",
+            "link": "https://amzn.to/2zWHKmE"
+        },
+        {
+            "product": "Dabur Ratnaprash - Chyawanprash for all Seasons, A Complete Family Health Tonic - 450g",
+            "link": "https://amzn.to/2LHZtRF"
+        },
+        {
+            "product": "Himalaya Baby Shampoo (400 ml)",
+            "link": "https://amzn.to/2zS3noi"
+        },
+        {
+            "product": "Himalaya Pure Skin Neem Facial Kit (Facewash 50ml, Scrub 50g & Face Pack 50g)",
+            "link": "https://amzn.to/2LKaeD6"
+        },
+        {
+            "product": "Himalaya Ashwagandha Pure Herbs General Wellness Tablets - 60 Count",
+            "link": "https://amzn.to/36gMVde"
+        },
+        {
+            "product": "Himalaya Wellness Since 1930 Pure Herbs Triphala Bowel Wellness - 60 Tablets",
+            "link": "https://amzn.to/3fYsma2"
+        },
+        {
+            "product": "Himalaya Baby Powder (400g)",
+            "link": "https://amzn.to/2Xfvt4L"
+        },
+        {
+            "product": "Himalaya Gentle Baby Soap Value Pack, 4 * 75g",
+            "link": "https://www.amazon.in/Himalaya-Gentle-Baby-Soap-Value/dp/B00ZTSOJSM/ref=sr_1_14?dchild=1&keywords=himalya&qid=1589929153&sr=8-14"
+        },
+        {
+            "product": "Himalaya Herbals Cocoa Butter Intensive Body Lotion, 400ml",
+            "link": "https://amzn.to/36bS7iO"
+        },
+        {
+            "product": "Himalaya Herbals Purifying Neem Face Wash, 200ml",
+            "link": "https://amzn.to/2Zr5Ssi"
+        },
+        {
+            "product": "Himalaya Clear Complexion Day Cream, 50g",
+            "link": "https://amzn.to/2ZkC4xN"
+        },
+        {
+            "product": "Himalaya Herbals Anti-Wrinkle Cream, 50g",
+            "link": "https://amzn.to/3e11zbj"
+        },
+        {
+            "product": "Himalaya Wellness Pure Herbs Men's Wellness Tablets - 60 Pieces (Gokshura)",
+            "link": "https://amzn.to/2ZlYpuW"
+        },
+        {
+            "product": "Himalaya Gentle Baby Wipes - 72 Pieces (Pack of 2)",
+            "link": "https://amzn.to/3cRdAA0"
+        },
+        {
+            "product": "Himalaya Wellness Pure Herbs Guduchi Immunity Wellness - 60 Tablet",
+            "link": "https://www.amazon.in/Himalaya-Wellness-Herbs-Guduchi-Immunity/dp/B00B8ROM1M/ref=sr_1_7?dchild=1&keywords=himalya&qid=1589929153&sr=8-7"
+        },
+        {
+            "product": "Himalaya Moisturizing Aloe Vera Face Wash, 200ml",
+            "link": "https://amzn.to/2WKzUpc"
+        },
+        {
+            "product": "Himalaya Herbals Baby Lotion (400ml)",
+            "link": "https://www.amazon.in/Himalaya-4003F-Baby-Lotion-400ml/dp/B008YD5500/ref=sr_1_5?dchild=1&keywords=himalya&qid=1589929153&sr=8-5"
+        },
+        {
+            "product": "Himalaya Herbals Purifying Neem Face Wash, 300ml",
+            "link": "https://amzn.to/36f2r9w"
+        },
+        {
+            "product": "Tata Tea Bags (100 Dips Pack)",
+            "link": "https://amzn.to/2AEb41I"
+        },
+        {
+            "product": "Tata Sampann Moong Chilka, 500g",
+            "link": "https://amzn.to/36dp1zA"
+        },
+        {
+            "product": "Tata Stryder Steel Harris FS 18 Speed MTB Bicycle for 12 and Above Years, Matt Black",
+            "link": "https://amzn.to/2XiBJc2"
+        },
+        {
+            "product": "Tata Tea Premium, 500g",
+            "link": "https://amzn.to/36gEe2J"
+        },
+        {
+            "product": "Tata Sampann Kabuli, 500g",
+            "link": "https://www.amazon.in/Tata-Sampann-Kabuli-500g/dp/B07DCPTP6R/ref=sr_1_34?dchild=1&keywords=tata&qid=1589977351&sr=8-34"
+        },
+        {
+            "product": "Tata Tea Teaveda, 250g",
+            "link": "https://www.amazon.in/Tata-Tea-Teaveda-250g/dp/B01KXUNV2K/ref=sr_1_32?dchild=1&keywords=tata&qid=1589977351&sr=8-32"
+        },
+        {
+            "product": "Tata Sampann Urad Whole, 1kg",
+            "link": "https://www.amazon.in/Tata-Sampann-Urad-Whole-1kg/dp/B074N9HX6Y/ref=sr_1_31?dchild=1&keywords=tata&qid=1589977351&sr=8-31"
+        },
+        {
+            "product": "Tata Grand Strong Instant Coffee - 1kg Pack",
+            "link": "https://amzn.to/3cMfVwc"
+        },
+        {
+            "product": "Tata Tea Premium Desh ki Chai , 1kg",
+            "link": "https://amzn.to/2zSKUIo"
+        },
+        {
+            "product": "Tata Sampann Kala Chana, 500 g",
+            "link": "https://amzn.to/36giG6f"
+        },
+        {
+            "product": "Tata Sampann Paneer Masala, 100g",
+            "link": "https://www.amazon.in/Tata-Sampann-Paneer-Masala-100g/dp/B01K4F5R3K/ref=sr_1_24?dchild=1&keywords=tata&qid=1589977351&s=pantry&sr=8-24"
+        },
+        {
+            "product": "Tata Coffee Grand Jar, 50g",
+            "link": "https://www.amazon.in/Tata-Coffee-Grand-Jar-50g/dp/B018GD3806/ref=sr_1_23?dchild=1&keywords=tata&qid=1589977351&sr=8-23"
+        },
+        {
+            "product": "Tata Sampann Unpolished Toor Dal, 500g",
+            "link": "https://www.amazon.in/Tata-Sampann-Toor-Dal-500g/dp/B077X8CRZG/ref=sr_1_22?dchild=1&keywords=tata&qid=1589977351&sr=8-22"
+        },
+        {
+            "product": "Tata Salt, 1Kg",
+            "link": "https://www.amazon.in/Tata-Salt-1kg/dp/B07575FPC3/ref=sr_1_19?dchild=1&keywords=tata&qid=1589977351&sr=8-19"
+        },
+        {
+            "product": "Tata Tea Gold, 500g",
+            "link": "https://amzn.to/36ijlEc"
+        },
+        {
+            "product": "TATA NX Energy Protein Choco Swirl Flavour Jar, 8 x 400 g",
+            "link": "https://amzn.to/2ygbpH4"
+        },
+        {
+            "product": "Tata Sampann Kitchen King Masala, 100g",
+            "link": "https://amzn.to/3bLCrE8"
+        },
+        {
+            "product": "Tata Salt",
+            "link": "https://amzn.to/2WLGo7m"
+        },
+        {
+            "product": "Tata Sampann Chilli Powder Masala, 200g",
+            "link": "https://amzn.to/2LHCbev"
+        },
+        {
+            "product": "Tata Tea Gold, 1kg",
+            "link": "https://amzn.to/3g6Q308"
+        },
+        {
+            "product": "Tata Premium Tea, 1kg",
+            "link": "https://amzn.to/2Xe5Hhl"
+        },
+        {
+            "product": "Tata Sampann Moong Dal Split, 500g",
+            "link": "https://amzn.to/2yjsy2F"
+        },
+        {
+            "product": "Tata Salt Black Salt, 100g",
+            "link": "https://amzn.to/2TlqHl6"
+        },
+        {
+            "product": "Tata Agni Leaf Tea, 1kg",
+            "link": "https://amzn.to/2zYYFVJ"
+        },
+        {
+            "product": "TATA Salt Rock Salt, 1kg",
+            "link": "https://amzn.to/2LK2fG2"
+        },
+        {
+            "product": "Tata Sampann Besan, 1kg",
+            "link": "https://amzn.to/3g1hacV"
+        },
+        {
+            "product": "Tata Sampann Green Moong, Whole, 500g",
+            "link": "https://amzn.to/2WLcvE8"
+        },
+        {
+            "product": "Tata Salt Lite, Low Sodium, 1kg",
+            "link": "https://amzn.to/2XfsGbP"
+        },
+        {
+            "product": "Tata Sampann Unpolished Toor Dal/Arhar Dal, 1kg",
+            "link": "https://amzn.to/2TlNv4i"
+        },
+        {
+            "product": "Tetley Tea Bags, 100s, 200g",
+            "link": "https://amzn.to/3d067hW"
+        },
+        {
+            "product": "Tetley Masala Tea, 100g (50 Tea Bags)",
+            "link": "https://www.amazon.in/Tetley-Masala-Tea-100g-Bags/dp/B00V7TC6QE/ref=sr_1_49?dchild=1&keywords=tata&qid=1589977351&sr=8-49"
+        },
+        {
+            "product": "Patanjali Tulsi & Giloy Juice Combo - Boosts Immunity - 500ml each",
+            "link": "https://amzn.to/2X7ijGY"
+        },
+        {
+            "product": "Patanjali Divya Arshkalp Vati 80Tab (pack of 3)",
+            "link": "https://amzn.to/2LK3Uvg"
+        },
+        {
+            "product": "Patanjali Dant Kanti Advanced Tooth Paste (100gm)",
+            "link": "https://amzn.to/3cQVzSn"
+        },
+        {
+            "product": "PATANJALI Saundarya Face Wash, 100g",
+            "link": "https://amzn.to/2XfaNKj"
+        },
+        {
+            "product": "Patanjali Kesh Kanti Anti-Dandruff Hair Cleanser Shampoo, 200ml",
+            "link": "https://www.amazon.in/Patanjali-Kanti-Anti-Dandruff-Cleanser-Shampoo/dp/B00K6856MI/ref=sr_1_48?dchild=1&keywords=patanjali&qid=1589978942&sr=8-48"
+        },
+        {
+            "product": "Patanjali Kesh Kanti Natural Hair Cleanser - 200 Ml (Pack Of 2)\r\n",
+            "link": "https://amzn.to/3bPqjC3"
+        },
+        {
+            "product": "Patanjali Saundarya Aloe Vera Gel, 150ml",
+            "link": "https://amzn.to/36dGvfd"
+        },
+        {
+            "product": "Patanjali Shatavar Churna (100gms)",
+            "link": "https://amzn.to/3g1jsJ3"
+        },
+        {
+            "product": "Patanjali Herbal Anti Bacterial Hand Wash - 250 ml",
+            "link": "https://amzn.to/2WKxdUO"
+        },
+        {
+            "product": "Patanjali Tulsi Ghan Vati, 240 Tab (3 x 80)",
+            "link": "https://amzn.to/2WKxBCK"
+        },
+        {
+            "product": "Patanjali Divya Mukta Vati",
+            "link": "https://amzn.to/2XbsFpq"
+        },
+        {
+            "product": "Patanjali Kesh Kanti Shikakai Hair Cleanser, 200ml",
+            "link": "https://www.amazon.in/Patanjali-Kanti-Shikakai-Cleanser-200ml/dp/B00XJOUVEE/ref=sr_1_22?dchild=1&keywords=patanjali&qid=1589978942&sr=8-22"
+        },
+        {
+            "product": "Patanjali Divya Giloy Ghanvati - 40Gms (2)",
+            "link": "https://amzn.to/3g7mZ8F"
+        },
+        {
+            "product": "Patanjali Virgin Coconut Oil, 250 ml",
+            "link": "https://amzn.to/2z7ptmW"
+        },
+        {
+            "product": "Patanjali Kesh Kanti Cleanser, Aloe Vera, 200ml",
+            "link": "https://www.amazon.in/Patanjali-Kesh-Kanti-Shampoo-200ml/dp/B01D4ZYRTW/ref=sr_1_25?dchild=1&keywords=patanjali&qid=1589978942&sr=8-25"
+        },
+        {
+            "product": "Patanjali Divya Madhunashini Vati Extra Power - 120 Tab (30tab x 4)",
+            "link": "https://amzn.to/2TpEPdf"
+        },
+        {
+            "product": "Patanjali Spirulina Capsule with Moringa 60 Tab (Pack of 1)",
+            "link": "https://amzn.to/3g4pEjj"
+        },
+        {
+            "product": "Patanajali Dant Kanti Advance Super Saver (100 g) - Pack of 2",
+            "link": "https://amzn.to/3cPEf0b"
+        },
+        {
+            "product": "Patanjali Liv D 38 Syrup Pack Of 2",
+            "link": "https://amzn.to/3bPqTjd"
+        },
+        {
+            "product": "Patanjali Kesh Kanti Hair Oil, 120 ml",
+            "link": "https://amzn.to/2LLQD5f"
+        },
+        {
+            "product": "Patanjali\" Liquid Shuddh Shilajeet",
+            "link": "https://amzn.to/36glFeX"
+        },
+        {
+            "product": "Patanjali Coconut Oil, 200ml",
+            "link": "https://www.amazon.in/Patanjali-Coconut-Oil-200ml/dp/B00D8WKWBY/ref=sr_1_32?dchild=1&keywords=patanjali&qid=1589978942&sr=8-32"
+        },
+        {
+            "product": "Patanjali Divya Triphala Churna 300gm",
+            "link": "https://amzn.to/3bPTkNK"
+        },
+        {
+            "product": "PATANJALI Divyaom Baba Ramdev Divya Tejus Tailum for Hair and Skin",
+            "link": "https://amzn.to/3e7WjTv"
+        },
+        {
+            "product": "Patanjali Super Dishwash Bar (Pack Of 5)",
+            "link": "https://amzn.to/3cPIPvc"
+        },
+        {
+            "product": "Patanjali Balm Pack Of 2",
+            "link": "https://amzn.to/3cP5XtW"
+        },
+        {
+            "product": "Patanjali Kesh Kanti Milk Protein Hair Cleanser Shampoo, 200ml (Pack of 2)",
+            "link": "https://amzn.to/3cJESZ0"
+        },
+        {
+            "product": "Patanjali Giloy Juice - Natural Immunity Booster - 500ml, Pack of 2",
+            "link": "https://amzn.to/3bRRcVQ"
+        },
+        {
+            "product": "Patanjali Divya Kesh Oil 100 Ml",
+            "link": "https://amzn.to/2z6Hd1P"
+        },
+        {
+            "product": "Patanjali Honey, 1kg",
+            "link": "https://amzn.to/36gBP86"
+        },
+        {
+            "product": "Patanjali Cows Ghee, 500ml",
+            "link": "https://amzn.to/2TnJaxM"
+        },
+        {
+            "product": "Patanjali Cow's Ghee, 1L",
+            "link": "https://amzn.to/2WNKJHm"
+        }
+    ]
+}
