@@ -1,5 +1,6 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import data from './data.json';
+import * as FlexmonsterReactNative from 'react-native-flexmonster';
 import {
   Text,
   StyleSheet,
@@ -16,25 +17,24 @@ export default class FirstPage extends Component {
   constructor(props) {
     super(props);
     //setting default state
-    this.state = { isLoading: true, text: '' };
+    this.state = {isLoading: true, text: ''};
     this.arrayholder = [];
   }
 
   componentDidMount() {
-    let url="http://restcountries.eu/rest/v2/name/tan"
+    let url = 'http://restcountries.eu/rest/v2/name/tan';
     return fetch(url)
       .then(response => response.json())
       .then(responseJson => {
         this.setState(
           {
             isLoading: false,
-            dataSource: responseJson
+            dataSource: responseJson,
           },
           function() {
             this.arrayholder = responseJson;
-          }
+          },
         );
-        
       })
       .catch(error => {
         console.error(error);
@@ -46,28 +46,26 @@ export default class FirstPage extends Component {
       //After setting the data it will automatically re-render the view
       text: text,
     });
-    if (text != ""){
-    return fetch('http://restcountries.eu/rest/v2/name/'+text)
-      .then(response => response.json())
-      .then(responseJson => {
-        this.setState(
-          {
+    if (text != '') {
+      return fetch('http://restcountries.eu/rest/v2/name/' + text)
+        .then(response => response.json())
+        .then(responseJson => {
+          this.setState({
             isLoading: false,
-            dataSource: responseJson
-          },
-         );
-      })
-      .catch(error => {
-        console.error(error);
-      });
+            dataSource: responseJson,
+          });
+        })
+        .catch(error => {
+          console.error(error);
+        });
     }
     //passing the inserted text in textinput
   }
 
-  onPress=(url)=>{
-      const {navigate} = this.props.navigation
-    navigate('SecondPage',{webUrl:url})
-  }
+  onPress = url => {
+    const {navigate} = this.props.navigation;
+    navigate('SecondPage', {webUrl: url});
+  };
   ListViewItemSeparator = () => {
     //Item sparator view
     return (
@@ -80,50 +78,48 @@ export default class FirstPage extends Component {
       />
     );
   };
+  getData() {
+    return [
+      {
+        Customer: 'A',
+        Product: 'P1',
+        'Curr Vol': 10,
+        'Prev Vol': 40,
+        'Vol Chg': -0.75,
+      },
+      {
+        Customer: 'A',
+        Product: 'P2',
+        'Curr Vol': 20,
+        'Prev Vol': 30,
+        'Vol Chg': -0.33333333,
+      },
+      {
+        Customer: 'B',
+        Product: 'P1',
+        'Curr Vol': 30,
+        'Prev Vol': 20,
+        'Vol Chg': 0.5,
+      },
+      {
+        Customer: 'B',
+        Product: 'P2',
+        'Curr Vol': 40,
+        'Prev Vol': 10,
+        'Vol Chg': 3,
+      },
+    ];
+  }
   render() {
-    const {dataSource}=this.state
-    if (this.state.isLoading) {
-      //Loadng View while data is loading
-      return (
-        <View style={{ flex: 1, paddingTop: 20 }}>
-          <ActivityIndicator />
-        </View>
-      );
-    }
-    else if(dataSource.length==0){
-      return(
-        <View style={{ flex: 1, paddingTop: 200 }}>
-          <Text >No results </Text>
-        </View>
-      )
-    }
-    
     return (
-      //ListView to show with textinput used as search bar
-      <View style={styles.viewStyle}>
-        <TextInput
-          style={styles.textInputStyle}
-          onChangeText={text => this.SearchFilterFunction(text)}
-          value={this.state.text}
-          underlineColorAndroid="transparent"
-          placeholder="Search Here"
-          maxLength={100}
-        />
-        <FlatList
-          data={data&&data.dataArr.length>0?data.dataArr:[]}
-          ItemSeparatorComponent={this.ListViewItemSeparator}
-          renderItem={({ item }) => (
-            <TouchableOpacity onPress={()=>this.onPress(item.link)}>
-             <Text style={styles.textStyle}>{item.product}</Text>
-            </TouchableOpacity>
-          )}
-          enableEmptySections={true}
-          style={{ marginTop: 10 }}
-          keyExtractor={(item, index) => index.toString()}
+      <View style={{flex: 1}}>
+        <FlexmonsterReactNative.Pivot
+          report="https://cdn.flexmonster.com/reports/report.json"
+          licenseKey="Z7WN-XC491N-2S341F-290S1K"
         />
       </View>
     );
-}
+  }
 }
 const styles = StyleSheet.create({
   viewStyle: {

@@ -182,9 +182,9 @@ PODS:
     - React-cxxreact (= 0.61.5)
     - React-jsi (= 0.61.5)
   - React-jsinspector (0.61.5)
-  - react-native-safe-area-context (2.0.0):
+  - react-native-safe-area-context (2.0.3):
     - React
-  - react-native-webview (9.4.0):
+  - react-native-webview (8.2.1):
     - React
   - React-RCTActionSheet (0.61.5):
     - React-Core/RCTActionSheetHeaders (= 0.61.5)
@@ -356,8 +356,8 @@ SPEC CHECKSUMS:
   React-jsi: cb2cd74d7ccf4cffb071a46833613edc79cdf8f7
   React-jsiexecutor: d5525f9ed5f782fdbacb64b9b01a43a9323d2386
   React-jsinspector: fa0ecc501688c3c4c34f28834a76302233e29dc0
-  react-native-safe-area-context: 0b0460e3298465bdb4b859ea43c2d7b9128cf988
-  react-native-webview: 0e2881d2e3e72ad52a82445c1a116c43205fd471
+  react-native-safe-area-context: ce7e110923a56ba3e3c615d4920ebbe01324326e
+  react-native-webview: d3cf75764f98fd433f1222f5a7ca8e355ada2a15
   React-RCTActionSheet: 600b4d10e3aea0913b5a92256d2719c0cdd26d76
   React-RCTAnimation: 791a87558389c80908ed06cc5dfc5e7920dfa360
   React-RCTBlob: d89293cc0236d9cb0933d85e430b0bbe81ad1d72
@@ -375,6 +375,6 @@ SPEC CHECKSUMS:
   RNVectorIcons: 0bb4def82230be1333ddaeee9fcba45f0b288ed4
   Yoga: f2a7cd4280bfe2cca5a7aed98ba0eb3d1310f18b
 
-PODFILE CHECKSUM: 374b0f66e6c60ce02e88f436c88561cea26b19b3
+PODFILE CHECKSUM: 17ea2c33666d4696d404891fb815c4ffad276cc6
 
 COCOAPODS: 1.8.0
