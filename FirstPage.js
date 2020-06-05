@@ -79,7 +79,7 @@ export default class FirstPage extends Component {
     );
   };
   getData() {
-    return [
+    let jsonData = [
       {
         Customer: 'A',
         Product: 'P1',
@@ -109,12 +109,17 @@ export default class FirstPage extends Component {
         'Vol Chg': 3,
       },
     ];
+    return {
+      dataSource: {
+        data: jsonData,
+      },
+    };
   }
   render() {
     return (
       <View style={{flex: 1}}>
         <FlexmonsterReactNative.Pivot
-          report="https://cdn.flexmonster.com/reports/report.json"
+          report={this.getData()}
           licenseKey="Z7WN-XC491N-2S341F-290S1K"
         />
       </View>
